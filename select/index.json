@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "君の隣で。",
+  "base_artist": "りりあ。",
+  "createdAt": "2025-12-18T08:54:44.647073Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君の隣で。",
+      "artist": "りりあ。",
+      "has_synced": true,
+      "path": "select/01_君の隣で。_りりあ。.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君の隣で。",
+      "artist": "りりあ。",
+      "has_synced": false,
+      "path": "select/02_君の隣で。_りりあ。.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君の隣で。",
+      "artist": "りりあ。",
+      "has_synced": false,
+      "path": "select/pl_01_君の隣で。_りりあ。.txt"
+    }
+  ]
+}
